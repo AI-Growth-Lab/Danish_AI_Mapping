@@ -3,3 +3,4 @@ streamlit-d3-demo
 folium
 pygsheets
 streamlit_folium
+st_aggrid
