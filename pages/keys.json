@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "danish-ai-mapping-353906",
+  "private_key_id": "9ee8fb73e09132bfc4f6a7c550c00ce0f5a65284",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfcn6vbvuhX3kK\npC+PhnU/dnoJ+d/g1H2hEIHSb+Tfpy+FSCIa9612B1DkNkrHMjEwk9aVNt5ngILQ\nmfrvsS1pZs1GAt0NCCJUG5BUoufLA5Ip4HnSCpwX9UmJlEehxSBl8Ku82OeExs2t\n3EA01hEl14+KMGFJDXe4VxDR+NhoojVzdVyPx+90zF4ZbRrWm2BQKLwIFEG8JayV\nk2+OWeO/xDgVx9wmqHY0r/U9D3s9xfgtkbL+hIGws0h3QRbU3L4em0q9l8RSv4JD\n3kyoUTn2vf/0yVlpSfWRdCyFFwiydky/p9Wq/rrCmzaQXu+qco3c3Yoff+AV79+D\nyxJBsV9tAgMBAAECggEACJGcoUzzlO6OkLXWIH53WpvBXzvgfjKtNbSvZWHCCQrx\nENaZjp104vztqfYI+r+FyTiItagnN6S+YvuDctIwwJNXwMVyn7qqLZ71mLbQgiaE\n+l8n7NPJI7h45T3kw5rWbOQMNq/pcUdF0mwdvzkp3sDA5ApJkCV7I5r6Om6HIshP\nEQe1H7K4YB1jHg23+0gcoU2p+NWLLqCRqfNzwrPOpgW+Ex7Xxvs6lxKmJRuZ1Ckd\nfh2MwYXqm6m4ad2GY1a9yeVk520upcwt71nG7IGbFAKIFVnwRaBPDhCAPFsSTHDd\n8kKpyJi+HjiW6c+V45N+Aa1gd4LvfyD1BEyj0WDTuQKBgQDbY+1xHbhVR1aHaQqp\nbtTLboPiW16zey9Ls4JV8JkOLzgupqZ07YU6x+oyz+TfiZmwzAKDKi+R3alW5KDh\nGuNOtWkvVRsIaXb6/sbeyG+9em3fxF28lu+TyR6eD8EzTcclC2Klt5cyP4RBKGCQ\nYtXHDoX6cqrZ23ZeuQlf/nLI3wKBgQC6DeAmOBGh0lRQQracXN2zvibdkEBifABj\nUQzChvYWabRMPhLM/w+jWAokIlF/9IEOTkthUsGqXf2U2waIhpNykBHGvfWtl/XU\nyYvaJ/JhLwDkKLbMGWXRHD8Ag1dilbw13mJCLRQu5JU0UrurFFdRslR/eWn1EeID\n04D/TvkFMwKBgGra0Ns3ToC6rjplvvunL52lxjaJqiZg6ThFxkV1Wha+iO6v3IM2\n7J0kobz95Mu7iU/DDbY05dZ1z/SyhmkdX3kGgqS7Ht+J/plhXhtEJKh06O8EBWPF\nYArq+i6iHcePKl+wm+t67/lZVmEl+WJZwSWivT6ueuiBK7YXCannlKChAoGAWeoK\nwW2nV8UF6iPTjI10t0DWF413ECFNLrIksH34v6wl7hKxk1BQhmgtvni3WlcXZ4p+\n83HDFkqGGkIfTit7ZoopjRqQeGxP6Z3dcHiNslm83IawkMJValF0QRM4T/R9GKt4\nYPLYJjFhyf+RooQaDulX3KMYic8yoxa76KaJwfECgYEAgMb9Ku6kM+TNTwphtgs9\nnQUMRVQXYxBhXbWL60yERIHTwRhebFEeyq09oxuyh+xzt5lkaHO5CABNSmEIiWFL\nuAfQSABOnlSoM9uWdYBTF7AfYGKiY9vJzy+c1R+xkUcV7ntsaJwEf5I2gGPdlTMU\n3MtYcVd/mGOrSHrb5YmzxG0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ai-mapping@danish-ai-mapping-353906.iam.gserviceaccount.com",
+  "client_id": "110666464445670262887",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ai-mapping%40danish-ai-mapping-353906.iam.gserviceaccount.com"
+}
