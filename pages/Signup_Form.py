@@ -44,7 +44,7 @@ def singup():
         st.success("You have successfully created a Profile")
         #authorization
         SAMPLE_SPREADSHEET_ID = '1jzoF2XLAGtY2yGgjp0mPSlta6KSVg6omHO8ScOOaRSU'
-        gc = pygsheets.authorize(service_file='/Users/zhyarsozhyn/Documents/AIGrowthLab/streamlit_ai_mapping/streamlit_aggrid/keys.json')
+        gc = pygsheets.authorize(service_file='keys.json')
         sht1 = gc.open_by_key(SAMPLE_SPREADSHEET_ID)
         #select the first sheet 
         wks = sht1[0]
